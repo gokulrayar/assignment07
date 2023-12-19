@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\Library_db\Library_db\bin\Debug\Library_db.exe.config
+C:\Users\rayar\source\repos\Library_db\Library_db\bin\Debug\Library_db.exe
+C:\Users\rayar\source\repos\Library_db\Library_db\bin\Debug\Library_db.pdb
+C:\Users\rayar\source\repos\Library_db\Library_db\obj\Debug\Library_db.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\Library_db\Library_db\obj\Debug\Library_db.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\Library_db\Library_db\obj\Debug\Library_db.exe
+C:\Users\rayar\source\repos\Library_db\Library_db\obj\Debug\Library_db.pdb
